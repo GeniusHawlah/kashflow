@@ -1,0 +1,52 @@
+.section-4 {
+    @apply w-auto pt-10 px-20   bg-[url('/images/section-4-bg.png')]  bg-center bg-no-repeat bg-cover
+}
+
+.sec-4-top-div {
+    @apply flex justify-between mb-10
+}
+
+.top-div-left-content {
+    @apply w-1/2 
+}
+
+.sec-4-right-img-div {
+    @apply w-1/2
+}
+
+.sec-4-h1 {
+    @apply text-[#0133B6] text-6xl mb-8
+}
+
+.sec-4-h1-2 {
+    @apply text-[#0133B6] text-5xl mb-8
+}
+
+.sec-4-p {
+    @apply text-2xl 
+}
+
+.sec-4-p2 {
+    @apply text-2xl 
+}
+
+.sec-4-download-btn-div {
+    @apply flex mt-28 space-x-8
+}
+
+.sec-4-download-btn-div2 {
+    @apply flex mt-12 space-x-8
+}
+
+.sec-4-bottom-div {
+    @apply flex justify-between  space-x-10 mt-32 pb-24
+}
+
+.sec-4-bottom-left-img-div {
+    @apply w-1/2
+}
+
+.sec-4-right-content-div {
+    @apply bg-transparent w-1/2
+
+}

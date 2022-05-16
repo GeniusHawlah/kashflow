@@ -1,0 +1,31 @@
+.footer-div {
+    @apply bg-[#090F74] flex justify-between items-start px-20 text-white pt-20 pb-20 space-x-32
+}
+
+.footer-left-content {
+    @apply space-y-5 w-[35%]
+}
+
+
+.footer-right-content {
+    @apply w-[65%] 
+}
+
+.footer-right-top-div {
+    @apply flex justify-between space-x-7 mb-10
+}
+
+.div1 {
+    @apply space-y-10
+}
+.div2 {
+    @apply space-y-10 
+}
+
+.div3 {
+    @apply space-y-10
+}
+
+.footer-right-bottom-div {
+    @apply space-y-10
+}
