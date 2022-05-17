@@ -1,13 +1,13 @@
 .section-3 {
-    @apply bg-white flex-col justify-between items-center 
+    @apply bg-white flex-col justify-between items-center
 }
 
 .sec-3-top-div {
-    @apply flex justify-between items-center mx-20 py-8 space-x-96
+    @apply  flex justify-between items-center mx-20 py-8 space-x-72
 }
 
 .sec-3-bottom-div {
-    @apply flex justify-between items-center mx-20 py-8 space-x-96
+    @apply  flex justify-between items-center mx-20 py-8 space-x-72
 }
 
 .each-icon-and-text {
